@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-label="He Jiachang. Building systems. Connecting intelligence.">
+ <defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M 28 0 L 0 0 0 28" fill="none" stroke="#c5ded5" stroke-width=".6" opacity=".3"/></pattern></defs>
+ <rect width="1200" height="410" rx="18" fill="#eef7f4"/>
+ <rect x=".5" y=".5" width="1199" height="409" rx="18" fill="none" stroke="#c5ded5"/>
+ <rect x="750" y="1" width="430" height="408" fill="url(#grid)"/>
+ <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+ <rect x="44" y="40" width="32" height="32" rx="8" fill="#176c53"/>
+ <path d="M53 51 l-5 5 5 5 M67 51 l5 5 -5 5 M62 49 l-4 14" stroke="#eef7f4" stroke-width="1.8" fill="none"/>
+ <text x="89" y="62" font-size="16" letter-spacing="2.4" fill="#52716b">LiTL0529 / DEVELOPER</text>
+ <text x="44" y="159" font-size="54" font-weight="650" letter-spacing="-1.6" fill="#122e2c">Building systems.</text>
+ <text x="44" y="225" font-size="54" font-weight="650" letter-spacing="-1.6" fill="#176c53">Connecting intelligence.</text>
+ <text x="47" y="273" font-size="17" fill="#52716b">CLOUD-NATIVE SYSTEMS  /  MCP  /  SEMANTIC SEARCH</text>
+ <path d="M44 326 H715" stroke="#c5ded5"/>
+ <text x="44" y="365" font-size="19" font-weight="600" fill="#122e2c">He Jiachang</text>
+ <text x="715" y="365" font-family="Consolas, monospace" font-size="13" fill="#52716b" text-anchor="end">ideas → systems → impact</text>
+ </g>
+ <g fill="none" stroke="#c5ded5"><circle cx="977" cy="204" r="139"/><circle cx="977" cy="204" r="103" stroke-dasharray="3 9"/><path d="M800 204 H1154 M977 27 V381" stroke-dasharray="3 9"/></g>
+ <g stroke="#176c53" fill="none" stroke-width="1.5"><path d="M851 140 H943 Q977 140 977 174 V237 Q977 268 1008 268 H1104"/><path d="M977 174 V112 H1055"/><circle cx="977" cy="204" r="20" fill="#e2efe8"/><path d="m969 204 6 6 10-12"/></g>
+ <g font-family="Consolas, monospace" font-size="13" fill="#122e2c">
+ <rect x="804" y="120" width="104" height="40" rx="9" fill="#e2efe8" stroke="#c5ded5"/><text x="856" y="145" text-anchor="middle">API</text>
+ <rect x="1020" y="92" width="112" height="40" rx="9" fill="#e2efe8" stroke="#c5ded5"/><text x="1076" y="117" text-anchor="middle">CONTEXT</text>
+ <rect x="1020" y="248" width="112" height="40" rx="9" fill="#e2efe8" stroke="#c5ded5"/><text x="1076" y="273" text-anchor="middle">DATA</text>
+ <text x="977" y="354" fill="#52716b" text-anchor="middle" font-size="11" letter-spacing="2">CONNECT THE DOTS</text>
+ </g></svg>
